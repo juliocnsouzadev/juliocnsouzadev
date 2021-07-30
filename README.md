@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi I'm Julio 👋
+
+- 🔭 I’m currently working as a software enginner
+- 🌱 I’m currently learning devops, mlops and deep learning
+
+ <div>
+  <a href="https://github.com/juliocnsouzadev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliocnsouzadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocnsouzadev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **juliocnsouzadev/juliocnsouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
