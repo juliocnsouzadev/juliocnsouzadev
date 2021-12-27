@@ -2,10 +2,9 @@
 
 - 🔭 I’m currently working as a software enginner
 - 🌱 I’m currently learning devops, mlops and deep learning
-<div id="linkedin">
- <h3><a href="www.linkedin.com/in/juliocnsouza">My LinkedIn Profile</a></h3>
-</div>
-<
+- 📫 How to reach me:
+ - <a href="www.linkedin.com/in/juliocnsouza">My LinkedIn Profile</a>
+
  <div>
   <a href="https://github.com/juliocnsouzadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliocnsouzadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
