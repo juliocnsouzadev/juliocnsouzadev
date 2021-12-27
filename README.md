@@ -3,7 +3,7 @@
 - 🔭 I’m currently working as a software enginner
 - 🌱 I’m currently learning devops, mlops and deep learning
 - 📫 How to reach me:
- - <a href="www.linkedin.com/in/juliocnsouza">My LinkedIn Profile</a>
+- - <a href="www.linkedin.com/in/juliocnsouza">My LinkedIn Profile</a>
 
  <div>
   <a href="https://github.com/juliocnsouzadev">
