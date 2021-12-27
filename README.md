@@ -1,7 +1,7 @@
 ### Hi I'm Julio 👋
 
-- 🔭 I’m currently working as a software enginner
-- 🌱 I’m currently learning devops, mlops and deep learning
+- 🔭 I’m currently working as a Software Enginner
+- 🌱 I’m currently learning more about Devops, MLOps and Deep Learning
 - 📫 How to reach me:
   - <a href="www.linkedin.com/in/juliocnsouza">My LinkedIn Profile</a>
 
