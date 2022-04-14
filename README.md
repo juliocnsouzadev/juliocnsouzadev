@@ -11,7 +11,7 @@
   </a>
 </div>
 <div>
-  <img height="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocnsouzadev&langs_count=10&theme=dracula&count_private=true"/>
+  <img height="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocnsouzadev&langs_count=10&theme=dracula&hide=html,css,xslt&count_private=true"/>
 </div>
 <!--
 **juliocnsouzadev/juliocnsouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
