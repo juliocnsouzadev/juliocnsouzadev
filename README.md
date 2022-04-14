@@ -5,18 +5,10 @@
 - 📫 How to reach me:
   - <a href="www.linkedin.com/in/juliocnsouza">My LinkedIn Profile</a>
 
-### 1st Github Profile
  <div>
   <a href="https://github.com/juliocnsouzadev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliocnsouzadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocnsouzadev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-### 2nd Github Profile
-  <div>
-  <a href="https://github.com/juliosouza-fl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliosouza-fl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliosouza-fl&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocnsouzadev&langs_count=10&theme=dracula"/>
 </div>
 
 <!--
