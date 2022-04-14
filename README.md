@@ -7,11 +7,11 @@
 
  <div>
   <a href="https://github.com/juliocnsouzadev">
-  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=juliocnsouzadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=juliocnsouzadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
 <div>
-  <img height="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocnsouzadev&langs_count=10&theme=dracula&hide=html,css,xslt&exclude_repo=_deprecated-data-engineering ,_deprecated-datascience,_deprecated_ic_stock_prices_indicator,_deprecated_datascience_from_scratch,_deprecated_datasciencecoursera,_dereprecated_datascience_puc&count_private=true"/>
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocnsouzadev&langs_count=10&theme=dracula&hide=html,css,xslt&exclude_repo=_deprecated-data-engineering ,_deprecated-datascience,_deprecated_ic_stock_prices_indicator,_deprecated_datascience_from_scratch,_deprecated_datasciencecoursera,_dereprecated_datascience_puc&count_private=true"/>
 </div>
 <!--
 **juliocnsouzadev/juliocnsouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
