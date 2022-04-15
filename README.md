@@ -1,8 +1,8 @@
-### Hello I'm Julio 👋
+## Hello I'm Julio 👋
 
-- 🔭 I’m a Software Enginner
-- 🌱 I love learning more about Devops, MLOps, Deep Learning and Microservices
-- 📫 You can to reach me at<a href="www.linkedin.com/in/juliocnsouza"> LinkedIn <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"></a>
+- 🔭 I’m a <b>Software Enginner</b>
+- 🌱 I love learning more about <i>Devops, MLOps, Deep Learning and Microservices</i>
+- 📫 You can reach me at<a href="www.linkedin.com/in/juliocnsouza"> <b>LinkedIn</b> <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"></a>
 
  <div>
   <a href="https://github.com/juliocnsouzadev">
