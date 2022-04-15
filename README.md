@@ -1,17 +1,17 @@
-### Hi I'm Julio 👋
+### Hello I'm Julio 👋
 
-- 🔭 I’m currently working as a Software Enginner
-- 🌱 I’m currently learning more about Devops, MLOps and Deep Learning
-- 📫 How to reach me:
-  - <a href="www.linkedin.com/in/juliocnsouza">My LinkedIn Profile</a>
+- 🔭 I’m a Software Enginner
+- 🌱 I love learning more about Devops, MLOps, Deep Learning and Microservices
+- 📫 You can to reach me at<a href="www.linkedin.com/in/juliocnsouza"> LinkedIn <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"></a>
 
  <div>
   <a href="https://github.com/juliocnsouzadev">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=juliocnsouzadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=juliocnsouzadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div>
+<br/>
 <div>
-  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocnsouzadev&langs_count=10&theme=dracula&hide=html,css,xslt&exclude_repo=_deprecated-data-engineering ,_deprecated-datascience,_deprecated_ic_stock_prices_indicator,_deprecated_datascience_from_scratch,_deprecated_datasciencecoursera,_dereprecated_datascience_puc&count_private=true"/>
+  <img align="center" height="312em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocnsouzadev&langs_count=10&theme=dracula&hide=html,css,xslt&exclude_repo=_deprecated-data-engineering ,_deprecated-datascience,_deprecated_ic_stock_prices_indicator,_deprecated_datascience_from_scratch,_deprecated_datasciencecoursera,_dereprecated_datascience_puc&count_private=true&layout=compact"/>
 </div>
 <!--
 **juliocnsouzadev/juliocnsouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
