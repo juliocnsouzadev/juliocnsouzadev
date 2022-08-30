@@ -10,9 +10,7 @@
   </a>
 </div>
 <br/>
-<div>
-  <img align="center" height="312em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliocnsouzadev&langs_count=10&theme=dracula&hide=html,css,xslt&exclude_repo=_deprecated-data-engineering ,_deprecated-datascience,_deprecated_ic_stock_prices_indicator,_deprecated_datascience_from_scratch,_deprecated_datasciencecoursera,_dereprecated_datascience_puc&count_private=true&layout=compact"/>
-</div>
+
 <!--
 **juliocnsouzadev/juliocnsouzadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
