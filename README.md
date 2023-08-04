@@ -4,7 +4,7 @@
 - 🌱 I love learning more about <i>Devops, MLOps, Deep Learning and Microservices</i>
 - 📫 You can reach me at<a href="www.linkedin.com/in/juliocnsouza"> <b>LinkedIn</b> <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"></a>
 
-<!--
+
  <div>
   <a href="https://github.com/juliocnsouzadev">
   <img align="center" height="200em" src="https://github-readme-stats.vercel.app/api?username=juliocnsouzadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
